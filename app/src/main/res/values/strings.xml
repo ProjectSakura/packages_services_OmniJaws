@@ -14,6 +14,8 @@
     <string name="omnijaws_provider_metnorway" translatable="false">MET Norway</string>
     <string name="omnijaws_provider_pirate_weather" translatable="false">Pirate Weather</string>
     <string name="omnijaws_provider_openmeteo" translatable="false">Open-Meteo</string>
+    <string name="omnijaws_provider_visualcrossing" translatable="false">Visual Crossing</string>
+    <string name="omnijaws_visual_crossing_key" translatable="false">Visual Crossing API key</string>
     <string name="omnijaws_interval_1_hour">1 hour</string>
     <string name="omnijaws_interval_2_hour">2 hours</string>
     <string name="omnijaws_interval_4_hour">4 hours</string>
